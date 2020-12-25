@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "ProjectStruct"
+rootProject.name = "AndroidLab"
