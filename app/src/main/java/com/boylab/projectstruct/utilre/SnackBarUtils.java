@@ -1,9 +1,11 @@
-package com.boylab.projectstruct.util_re;
+package com.boylab.projectstruct.utilre;
 
 import android.app.Activity;
-import android.support.annotation.StringRes;
-import android.support.design.widget.Snackbar;
 import android.widget.Toast;
+
+import androidx.annotation.StringRes;
+
+import com.google.android.material.snackbar.Snackbar;
 
 public class SnackBarUtils {
 

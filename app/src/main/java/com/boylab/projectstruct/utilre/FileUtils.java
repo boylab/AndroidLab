@@ -1,4 +1,4 @@
-package com.boylab.projectstruct.util_re;
+package com.boylab.projectstruct.utilre;
 
 import android.Manifest;
 import android.app.Activity;
@@ -7,7 +7,8 @@ import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.os.Build;
 import android.os.Environment;
-import android.support.v4.app.ActivityCompat;
+
+import androidx.core.app.ActivityCompat;
 
 import java.io.File;
 import java.io.FileInputStream;

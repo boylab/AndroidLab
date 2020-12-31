@@ -1,4 +1,4 @@
-package com.boylab.projectstruct.util_re;
+package com.boylab.projectstruct.utilre;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

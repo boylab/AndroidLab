@@ -1,4 +1,4 @@
-package com.boylab.projectstruct.util_re;
+package com.boylab.projectstruct.utilre;
 
 import android.Manifest;
 import android.app.Activity;

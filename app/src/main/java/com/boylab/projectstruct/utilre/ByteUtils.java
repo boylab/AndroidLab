@@ -23,7 +23,7 @@
  *
  */
 
-package com.boylab.projectstruct.util_re;
+package com.boylab.projectstruct.utilre;
 
 import java.util.List;
 import java.util.Locale;
