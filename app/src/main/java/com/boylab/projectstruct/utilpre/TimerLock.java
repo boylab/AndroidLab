@@ -1,6 +1,4 @@
-package com.boylab.projectstruct.util;
-
-import android.content.SharedPreferences;
+package com.boylab.projectstruct.utilpre;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

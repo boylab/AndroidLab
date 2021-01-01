@@ -1,4 +1,4 @@
-package com.boylab.projectstruct.utilre;
+package com.boylab.projectstruct.util;
 
 import java.io.File;
 import java.io.FileInputStream;

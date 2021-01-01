@@ -1,4 +1,4 @@
-package com.boylab.projectstruct.util;
+package com.boylab.projectstruct.utilpre;
 
 import java.util.Date;
 
