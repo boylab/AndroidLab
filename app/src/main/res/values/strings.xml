@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ProjectStruct</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_templates">Templates</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_mine">Mine</string>
+    <string name="title_create_template">New</string>
+
+    <string name="template_local_template">Local Template</string>
+    <string name="template_cloud_template">Cloud Template</string>
+    <string name="template_shared_template">Shared Template</string>
+    <string name="template_printer_template">Printer Template</string>
 </resources>

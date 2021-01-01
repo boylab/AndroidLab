@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "com.boylab.projectstruct"
-        minSdkVersion 19
+        minSdkVersion 24
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
@@ -46,5 +46,7 @@ dependencies {
     implementation 'org.greenrobot:greendao:3.3.0'
 
     implementation "io.reactivex.rxjava3:rxjava:3.0.7"
+    implementation 'android.arch.navigation:navigation-fragment:1.0.0'
+    implementation 'android.arch.navigation:navigation-ui:1.0.0'
 
 }

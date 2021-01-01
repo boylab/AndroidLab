@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ProjectStruct</string>
+
+    <string name="title_home">主页</string>
+    <string name="title_templates">模板</string>
+    <string name="title_settings">设置</string>
+    <string name="title_mine">我的</string>
+    <string name="title_create_template">新建</string>
+
+    <string name="template_local_template">本地模板</string>
+    <string name="template_cloud_template">我的模板</string>
+    <string name="template_shared_template">官方模板</string>
+    <string name="template_printer_template">打印机模板</string>
 </resources>

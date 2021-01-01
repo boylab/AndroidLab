@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_templates">
+
+    <fragment
+        android:id="@+id/navigation_templates"
+        android:name="com.boylab.projectstruct.ui.home.Navigation.TemplatesFragment"
+        android:label="@string/title_templates"
+        tools:layout="@layout/fragment_templates" />
+
+    <fragment
+        android:id="@+id/navigation_create_template"
+        android:name="com.boylab.projectstruct.ui.home.Navigation.CreateTemplateFragment"
+        android:label="@string/title_create_template"
+        tools:layout="@layout/fragment_create_template" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.boylab.projectstruct.ui.home.Navigation.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>

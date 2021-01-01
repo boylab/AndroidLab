@@ -3,4 +3,13 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+
+    <!-- 导航栏背景色 -->
+    <color name="navigationBarBackgroundColor">#ffffff</color>
+    <!-- 导航栏前景色，主要包括文字颜色，按钮图标颜色 -->
+    <color name="navigationBarForegroundColor">#b0b2bf</color>
+    <!-- 导航栏强调色，主要是某一项选中时，按钮图标的颜色，文字的颜色 -->
+    <color name="navigationBarHighlightColor">#0497ff</color>
+
 </resources>
