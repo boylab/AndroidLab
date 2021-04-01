@@ -2,7 +2,7 @@ package com.boylab.projectstruct.base;
 
 import android.app.Application;
 
-import com.boylab.projectstruct.db.helper.DBManager;
+import com.boylab.projectstruct.db.manager.DBManager;
 
 public class App extends Application {
 

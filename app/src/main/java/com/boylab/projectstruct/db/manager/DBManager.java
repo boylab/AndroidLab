@@ -1,8 +1,10 @@
-package com.boylab.projectstruct.db.helper;
+package com.boylab.projectstruct.db.manager;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 
+import com.boylab.projectstruct.db.helper.Table01Helper;
+import com.boylab.projectstruct.db.helper.Table02Helper;
 import com.boylab.projectstruct.db.tabledao.DaoMaster;
 import com.boylab.projectstruct.db.tabledao.DaoSession;
 

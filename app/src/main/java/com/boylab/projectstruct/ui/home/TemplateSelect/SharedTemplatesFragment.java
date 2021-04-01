@@ -17,7 +17,6 @@ public class SharedTemplatesFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.fragment_shared_templates, container, false);
-
         return root;
     }
 

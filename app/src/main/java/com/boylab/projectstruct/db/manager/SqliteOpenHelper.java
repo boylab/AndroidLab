@@ -1,4 +1,4 @@
-package com.boylab.projectstruct.db.helper;
+package com.boylab.projectstruct.db.manager;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
