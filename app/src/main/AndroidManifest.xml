@@ -20,14 +20,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.home.NavigationActivity">
+        <activity android:name=".ui.home.NavigationActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden|adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.moduleA.MainActivity">
+        <activity android:name=".ui.moduleA.MainActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden|adjustResize">
 
         </activity>
     </application>

@@ -12,4 +12,6 @@
     <!-- 导航栏强调色，主要是某一项选中时，按钮图标的颜色，文字的颜色 -->
     <color name="navigationBarHighlightColor">#0497ff</color>
 
+
+
 </resources>

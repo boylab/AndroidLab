@@ -1,2 +1,4 @@
+include ':appactivity'
+include ':myBasePopup'
 include ':app'
 rootProject.name = "AndroidLab"
